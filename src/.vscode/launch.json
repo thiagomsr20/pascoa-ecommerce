@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Code\\Repositories\\pascoa-ecommerce-react\\pascoa-ecommerce\\resource\\database.json",
+            "request": "launch",
+            "url": "http://C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Code\\Repositories\\pascoa-ecommerce-react\\pascoa-ecommerce\\resource\\database.json"
+        }
+    ]
+}

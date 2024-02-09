@@ -1,0 +1,61 @@
+/* Card style */
+.card {
+  margin: 20px;
+  background-color: rgb(225, 225, 225);
+  border-radius: 30px;
+  box-shadow: 0px 4px 6px rgb(190, 190, 190);
+  width: min(80%, 400px);
+  height: 480px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.infos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 16%;
+  width: 90%;
+  margin-bottom: 55px;
+  margin-top: 5px;
+}
+
+.nome {
+  color: #424242;
+}
+
+.preco {
+  color: #747474;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.descricao {
+  width: 240px;
+  text-align: center;
+  color: #747474;
+}
+
+img {
+  width: 90%;
+  height: 230px;
+  border-radius: 17px;
+  margin-top: 15px;
+}
+
+button {
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #009F83;
+  border: none;
+  width: 90%;
+  height: 60px;
+  border-radius: 17px;
+  box-shadow: 0 3px 6px rgb(160, 160, 160);
+}
+
+  button:active {
+      background-color: #00cfaa;
+  }
+/* __________ */

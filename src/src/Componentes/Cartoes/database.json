@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "nome": "Brigadeiro",
+      "descricao": "Chocolate meio amargo e recheio de brigadeiro",
+      "preco": 50.20,
+      "quantidade": 1,
+      "tamanho": "300g",
+      "imagem": "https://i.pinimg.com/736x/1d/9d/99/1d9d9980eabb32f5e04aad63b08337ed.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Maracujá",
+      "descricao": "Chocalte 50% com musse de maracujá",
+      "preco": 29.99,
+      "quantidade": 50,
+      "tamanho": "M",
+      "imagem": "https://i.pinimg.com/736x/1d/9d/99/1d9d9980eabb32f5e04aad63b08337ed.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Morango",
+      "descricao": "Chocalte 50% com musse de morango",
+      "preco": 29.99,
+      "quantidade": 50,
+      "tamanho": "M",
+      "imagem": "https://i.pinimg.com/736x/1d/9d/99/1d9d9980eabb32f5e04aad63b08337ed.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Leite condensado",
+      "descricao": "Chocolate com leite condensado",
+      "preco": 29.99,
+      "quantidade": 50,
+      "tamanho": "M",
+      "imagem": "https://i.pinimg.com/736x/1d/9d/99/1d9d9980eabb32f5e04aad63b08337ed.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Leite ninho",
+      "descricao": "Chocolate amargo com leite ninho",
+      "preco": 29.99,
+      "quantidade": 50,
+      "tamanho": "M",
+      "imagem": "https://i.pinimg.com/736x/1d/9d/99/1d9d9980eabb32f5e04aad63b08337ed.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Amendoim",
+      "descricao": "Recheio de creme de amendoim com paçoquinha",
+      "preco": 29.99,
+      "quantidade": 50,
+      "tamanho": "M",
+      "imagem": "https://i.pinimg.com/736x/1d/9d/99/1d9d9980eabb32f5e04aad63b08337ed.jpg"
+    }
+  ]
